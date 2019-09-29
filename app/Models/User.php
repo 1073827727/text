@@ -16,7 +16,7 @@ class User extends Authenticatable
      * @var arrays
      */
 
-    protected $table = 'users';
+
 
     protected $fillable = [
         //填补功能，只有包含在该属性的字段才能被更新
